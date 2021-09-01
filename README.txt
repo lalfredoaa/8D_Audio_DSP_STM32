@@ -7,3 +7,7 @@ This project consisted on using FIR filters implemented in a STM32 microcontroll
 
 "vueltacompleta.mat" is a MATLAB workspace that contains a sample of the filtered audio. 
 
+
+
+I included the main source files but couldn't upload the whole (compiled) project due to Github restrictions. 
+Whole project folder can be found here: bit.ly/3jsgNMc
